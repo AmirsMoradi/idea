@@ -1,1 +1,1 @@
-# idea
+Here is a simple exercise using the matplotlib library, where I drew some statistics that are manual. Run it on your environment. If you don't have this library installed, be sure to install it so that the program can run.
